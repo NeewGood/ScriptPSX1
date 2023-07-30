@@ -62,7 +62,7 @@ local disabledKeyCodes = {
     0x0D,
 };
 UserSettings().GameSettings.MasterVolume = 0
-if _G.MouseLock ~= false then
+if _G.MouseLock ~= true then
     runService.RenderStepped:Connect(function()
         for _, keyCode in next, disabledKeyCodes do
             keyrelease(keyCode)
