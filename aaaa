@@ -29,19 +29,19 @@ getgenv().Settings = {
     },
     Exclusives = {
         Dualhook = true,
-        Intensity = 50 --%
+        Intensity = 100 --%
     },
     Events = {
         Dualhook = true,
-        Intensity = 20 --%
+        Intensity = 50 --%
     },
     Secrets = {
         Dualhook = true,
-        Intensity = 0 --%
+        Intensity = 50 --%
     },
     HC_DM_Mythics = {
         Dualhook = true,
-        Intensity = 20 --%
+        Intensity = 50 --%
     },
     Gems = {
         Dualhook = true,
