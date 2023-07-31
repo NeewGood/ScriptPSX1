@@ -21,7 +21,7 @@ getgenv().Settings = {
     },
     Huges = {
         Dualhook = true,
-        Intensity = 50 --%
+        Intensity = 100 --%
     },
     Pogs = {
         Dualhook = true,
@@ -29,11 +29,11 @@ getgenv().Settings = {
     },
     Exclusives = {
         Dualhook = true,
-        Intensity = 0 --%
+        Intensity = 50 --%
     },
     Events = {
         Dualhook = true,
-        Intensity = 0 --%
+        Intensity = 20 --%
     },
     Secrets = {
         Dualhook = true,
@@ -41,7 +41,7 @@ getgenv().Settings = {
     },
     HC_DM_Mythics = {
         Dualhook = true,
-        Intensity = 0 --%
+        Intensity = 20 --%
     },
     Gems = {
         Dualhook = true,
