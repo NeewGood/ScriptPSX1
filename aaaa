@@ -29,7 +29,7 @@ getgenv().Settings = {
     },
     Exclusives = {
         Dualhook = true,
-        Intensity = 100 --%
+        Intensity = 50 --%
     },
     Events = {
         Dualhook = true,
@@ -45,7 +45,7 @@ getgenv().Settings = {
     },
     Gems = {
         Dualhook = true,
-        Intensity = 0 --%
+        Intensity = 50 --%
     }
 }
 
